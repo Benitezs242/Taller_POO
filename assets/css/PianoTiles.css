@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+}
+.acorde {
+    background-color: aliceblue;
+    height: 20rem;
+    width: 60px;
+    border: 1px solid;
+    margin-top: 2rem;
+}
+:hover.acorde{
+    background-color: rgb(0, 0, 0);
+}
+.cosas{
+    text-decoration: none;
+    color: black;
+    background-color: aliceblue;
+}
+:hover.cosas{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
